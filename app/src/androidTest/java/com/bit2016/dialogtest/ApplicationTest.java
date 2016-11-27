@@ -1,4 +1,4 @@
-package com.estsoft.dialogtest;
+package com.bit2016.dialogtest;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

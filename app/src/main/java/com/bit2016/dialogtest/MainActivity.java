@@ -1,10 +1,7 @@
-package com.estsoft.dialogtest;
+package com.bit2016.dialogtest;
 
-import android.app.Dialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 

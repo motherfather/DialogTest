@@ -27,6 +27,9 @@
       </value>
     </option>
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="kickscar" />
+  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -40,7 +43,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Java</id>
+            <id>SpellCheckingInspection</id>
           </State>
         </selected-state>
       </profile-state>
